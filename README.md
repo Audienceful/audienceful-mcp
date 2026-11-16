@@ -2,11 +2,21 @@
 
 # Audienceful MCP Server for Email Marketing Automation & Transactional Email
 
+**Contents**
+
+- [What is Audienceful?](#what-is-audienceful)
+- [Connect your AI assistant](#connect-your-ai-assistant)
+- [Install](#install): [Claude](#claude-claudeai-and-claude-desktop) · [Claude Code](#claude-code) · [ChatGPT](#chatgpt) · [Codex CLI](#codex-cli) · [Gemini CLI](#gemini-cli) · [Cursor](#cursor) · [VS Code](#vs-code) · [Mistral Le Chat](#mistral-le-chat) · [Other apps](#other-apps)
+- [Example prompts](#example-prompts)
+- [Tools](#tools)
+- [Safety](#safety)
+- [Privacy and support](#privacy-and-support)
+
 ## What is Audienceful?
 
 [Audienceful](https://www.audienceful.com) is an AI-ready **email marketing platform** and **marketing automation platform** for newsletters, ecommerce stores and SaaS companies. It combines a drag-and-drop email builder, newsletters, automations, segmentation, signup forms, a built-in CRM, transactional email and analytics in one tool, with a free plan to start.
 
-A SaaS company can run **all of its email through Audienceful**: marketing campaigns and newsletters, lifecycle automations like onboarding, trial-to-paid and dunning, and **transactional email** like receipts, password resets and product notifications. Transactional emails are designed in the same editor as your campaigns and sent with one call to the Audienceful API, so you don't need a separate transactional email service alongside your email marketing tool.
+A SaaS or ecommerce company can run **all of its email through Audienceful**: marketing campaigns and newsletters, lifecycle automations like onboarding, abandoned cart, post-purchase, trial-to-paid and dunning, and **transactional email** like order confirmations, receipts, password resets and product notifications. Transactional emails are designed in the same editor as your campaigns and sent with one call to the Audienceful API, so you don't need a separate transactional email service alongside your email marketing tool.
 
 Audienceful was built for AI agents as well as people. It has a built-in AI email marketing agent, a hosted **MCP server** that covers every core workflow (contacts, imports, audiences, email drafts, templates and themes, automations, analytics and sending), and a REST API. Connect Claude, ChatGPT, Gemini, Cursor or any other MCP client, and your assistant does the work inside your account instead of handing you text to paste.
 
