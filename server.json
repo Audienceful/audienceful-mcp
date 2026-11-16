@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.audienceful/audienceful",
+  "title": "Audienceful",
+  "description": "Email marketing: manage contacts and audiences, write emails, build automations, report and send.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.audienceful.com/help/api/mcp",
+  "repository": {
+    "url": "https://github.com/Audienceful/audienceful-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/Audienceful/audienceful-mcp/main/assets/icon.png",
+      "mimeType": "image/png",
+      "sizes": ["256x256"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.audienceful.com/v2/mcp"
+    }
+  ]
+}

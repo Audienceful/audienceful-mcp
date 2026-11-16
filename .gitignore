@@ -1,0 +1,4 @@
+# MCP registry signing key and the publisher CLI's login tokens: never commit
+*.pem
+.mcpregistry_*
+.DS_Store
