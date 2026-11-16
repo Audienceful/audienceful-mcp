@@ -1,10 +1,10 @@
-# Audienceful MCP Server
+<p><img src="assets/icon.png" alt="Audienceful logo" width="64" height="64"></p>
 
-<img src="assets/icon.png" alt="Audienceful" width="64" align="right">
+# Audienceful MCP Server for Email Marketing Automation & Transactional Email
 
 ## What is Audienceful?
 
-[Audienceful](https://www.audienceful.com) is an AI-ready **email marketing platform** and **marketing automation platform** for newsletters, ecommerce stores and SaaS companies. It combines a drag-and-drop email builder, newsletters, automations, segmentation, signup forms, a built-in CRM, transactional email and analytics in one tool, with a free plan to start.
+[Audienceful](https://www.audienceful.com) is an AI-ready **email marketing platform** and **marketing automation platform** for newsletters, ecommerce stores and SaaS companies. It combines a drag-and-drop email builder, newsletters, automations, segmentation, signup forms, a built-in CRM, transactional email and analytics in one tool, with a free plan to start. Transactional emails such as receipts, password resets and notifications are designed in the same editor as your campaigns and sent through the Audienceful API.
 
 Audienceful was built for AI agents as well as people. It has a built-in AI email marketing agent, a hosted **MCP server** that covers every core workflow (contacts, imports, audiences, email drafts, templates and themes, automations, analytics and sending), and a REST API. Connect Claude, ChatGPT, Gemini, Cursor or any other MCP client, and your assistant does the work inside your account instead of handing you text to paste.
 
